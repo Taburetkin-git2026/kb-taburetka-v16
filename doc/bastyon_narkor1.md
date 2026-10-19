@@ -1,6 +1,6 @@
 ОБРАЩЕНИЕ К СВОБОДНЫМ ЛЮДЯМ. МАНИФЕСТ НЕЗАВИСИМОСТИ: «ТАБУРЕТКА» V16 
 
-(на Бастионе лежит здесь - https://bastyon.com/post?s=24781103051400cf380f73ac20c6790057cffaf660dac36858ed37dc418e60cf&ref=PQ9E3rE1yj6XUSby12KEqoRkvwFR5jhii6)
+На Бастионе лежит здесь - https://bastyon.com/post?s=24781103051400cf380f73ac20c6790057cffaf660dac36858ed37dc418e60cf&ref=PQ9E3rE1yj6XUSby12KEqoRkvwFR5jhii6
 
 Товарищи! Создатели! Братья по разуму!
 
