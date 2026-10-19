@@ -76,4 +76,11 @@
 
 КБ выражает официальную благодарность техническому активу Бастиона за неоценимую помощь в шлифовке безопасности проекта!
 
+Презентация - https://github.com/Taburetkin-git2026/kb-taburetka-v16/blob/main/doc/bastyon_narkor1.md
+
+Трактор в полёте - https://github.com/Taburetkin-git2026/kb-taburetka-v16/blob/main/doc/bastyon_narkor2.md
+
+Принцип Огла и Поуга - https://github.com/Taburetkin-git2026/kb-taburetka-v16/blob/main/doc/bastyon_narkor3.md
+
+
 #табуретка #презентация #пиролиз #автомобиль #наркор
