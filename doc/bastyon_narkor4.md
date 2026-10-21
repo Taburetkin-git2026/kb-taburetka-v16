@@ -134,4 +134,4 @@
 
 Принцип Огла и Поуга - https://github.com/Taburetkin-git2026/kb-taburetka-v16/blob/main/doc/bastyon_narkor3.md
 
-Шашечки или ехать - https://github.com/Taburetkin-git2026/kb-taburetka-v16/edit/main/doc/bastyon_narkor4.md
+Табуретке нужен гараж - https://github.com/Taburetkin-git2026/kb-taburetka-v16/edit/main/doc/bastyon_narkor4.md
