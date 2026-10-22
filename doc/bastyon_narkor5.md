@@ -121,6 +121,21 @@
 Все предыдущие посты этой серии:
 
 1. "Обращение. Концепция" - bastyon://post?s=24781103051400cf380f73ac20c6790057cffaf660dac36858ed37dc418e60cf&ref=pq9e3re1yj6xusby12keqorkvwfr5jhii6
+
 2. "Трактор в полёте" - bastyon://post?s=47015b61950f77a707c072e39e8e5adbac3f36e1bf817620dbc4da74d40b3bde&ref=pq9e3re1yj6xusby12keqorkvwfr5jhii6
+
 3. "Патенты. Огл и Поуг" - bastyon://post?s=325633be73bf62e412239cb1c42ab304db272130553bd4d87dabac4fae75196a&ref=pq9e3re1yj6xusby12keqorkvwfr5jhii6
+
 4. "Табуретке нужен гараж" - bastyon://post?s=ace2e904836cbad537fdad49160c14847206d03e09c364ddb14373907d75e637&ref=pq9e3re1yj6xusby12keqorkvwfr5jhii6
+
+Или здесь, на Гитхабе
+Презентация - https://github.com/Taburetkin-git2026/kb-taburetka-v16/blob/main/doc/bastyon_narkor1.md
+
+Трактор в полёте - https://github.com/Taburetkin-git2026/kb-taburetka-v16/blob/main/doc/bastyon_narkor2.md
+
+Принцип Огла и Поуга - https://github.com/Taburetkin-git2026/kb-taburetka-v16/blob/main/doc/bastyon_narkor3.md
+
+Табуретке нужен гараж - https://github.com/Taburetkin-git2026/kb-taburetka-v16/blob/main/doc/bastyon_narkor4.md
+
+Начало - https://github.com/Taburetkin-git2026/kb-taburetka-v16/blob/main/doc/bastyon_narkor5.md
+
