@@ -1,6 +1,6 @@
 Начало. Развитие автомобиля: как нас заставили платить за шпионский мессенджер на колесах. Революция Генри Форда, или «Вам шашечки или ехать 2.0»
 
-Предыдущий пост "Табуретке нужен гараж" здесь - bastyon://post?s=ace2e904836cbad537fdad49160c14847206d03e09c364ddb14373907d75e637&ref=pq9e3re1yj6xusby12keqorkvwfr5jhii6
+Предыдущий пост "Табуретке нужен гараж" здесь - - https://bastyon.com/post?s=ace2e904836cbad537fdad49160c14847206d03e09c364ddb14373907d75e637&ref=pq9e3re1yj6xusby12keqorkvwfr5jhii6
 
 В одном из комментариев по Табуретке V16 нас спросили про изобретения и патенты на них - имеем ли мы право их использовать.
 Мы ответили что вовсе не умеем изобретать, мы лишь собрали в нашем устройстве лучшее, что придумали в машиностроении за всю его долгую историю. Про патенты Огла и Поуга мы уже рассказывали, теперь настала очередь рассказать про изобретения Генри Форда.
@@ -120,13 +120,13 @@
 
 Все предыдущие посты этой серии:
 
-1. "Обращение. Концепция" - bastyon://post?s=24781103051400cf380f73ac20c6790057cffaf660dac36858ed37dc418e60cf&ref=pq9e3re1yj6xusby12keqorkvwfr5jhii6
+1. "Обращение. Концепция" - - https://bastyon.com/post?s=24781103051400cf380f73ac20c6790057cffaf660dac36858ed37dc418e60cf&ref=pq9e3re1yj6xusby12keqorkvwfr5jhii6
 
-2. "Трактор в полёте" - bastyon://post?s=47015b61950f77a707c072e39e8e5adbac3f36e1bf817620dbc4da74d40b3bde&ref=pq9e3re1yj6xusby12keqorkvwfr5jhii6
+2. "Трактор в полёте" - - https://bastyon.com/post?s=47015b61950f77a707c072e39e8e5adbac3f36e1bf817620dbc4da74d40b3bde&ref=pq9e3re1yj6xusby12keqorkvwfr5jhii6
 
-3. "Патенты. Огл и Поуг" - bastyon://post?s=325633be73bf62e412239cb1c42ab304db272130553bd4d87dabac4fae75196a&ref=pq9e3re1yj6xusby12keqorkvwfr5jhii6
+3. "Патенты. Огл и Поуг" - - https://bastyon.com/post?s=325633be73bf62e412239cb1c42ab304db272130553bd4d87dabac4fae75196a&ref=pq9e3re1yj6xusby12keqorkvwfr5jhii6
 
-4. "Табуретке нужен гараж" - bastyon://post?s=ace2e904836cbad537fdad49160c14847206d03e09c364ddb14373907d75e637&ref=pq9e3re1yj6xusby12keqorkvwfr5jhii6
+4. "Табуретке нужен гараж" - - https://bastyon.com/post?s=ace2e904836cbad537fdad49160c14847206d03e09c364ddb14373907d75e637&ref=pq9e3re1yj6xusby12keqorkvwfr5jhii6
 
 Или здесь, на Гитхабе
 
