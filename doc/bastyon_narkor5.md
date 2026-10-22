@@ -129,6 +129,7 @@
 4. "Табуретке нужен гараж" - bastyon://post?s=ace2e904836cbad537fdad49160c14847206d03e09c364ddb14373907d75e637&ref=pq9e3re1yj6xusby12keqorkvwfr5jhii6
 
 Или здесь, на Гитхабе
+
 Презентация - https://github.com/Taburetkin-git2026/kb-taburetka-v16/blob/main/doc/bastyon_narkor1.md
 
 Трактор в полёте - https://github.com/Taburetkin-git2026/kb-taburetka-v16/blob/main/doc/bastyon_narkor2.md
