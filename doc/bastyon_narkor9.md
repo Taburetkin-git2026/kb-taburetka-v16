@@ -1,5 +1,7 @@
 Акела промахнулся?
 
+Масса, умноженная на время — это долгий путь. Или почему Акела больше не промахивается.
+
 На обложке - https://youtube.com/shorts/HlUT3SbF3pE?si=69xURMJxporuKdzv 
 
 Предыдущий пост "Рулонные города" здесь - https://bastyon.com/post?s=9c171c3e6c91391ae16670834e732f55e4b9150bef05271becb62c0d2c2baf9b&ref=pq9e3re1yj6xusby12keqorkvwfr5jhii6
@@ -70,6 +72,6 @@ https://bastyon.com/post?s=325633be73bf62e412239cb1c42ab304db272130553bd4d87daba
 https://bastyon.com/post?s=ace2e904836cbad537fdad49160c14847206d03e09c364ddb14373907d75e637&ref=pq9e3re1yj6xusby12keqorkvwfr5jhii6
 https://bastyon.com/post?s=169a053a57c183c16ec438a8f6efd7795858a1405c40bf95e17aaf80fd0a8a0d&ref=pq9e3re1yj6xusby12keqorkvwfr5jhii6
 https://bastyon.com/post?s=ace4623e411863b8de9fdc5c1f426693a5bb140de402bccc99a8fdede99d8129&ref=pq9e3re1yj6xusby12keqorkvwfr5jhii6
-https://bastyon.com/post?s=0469fb551acf3c48dbbef1204f8536e16c905060c130b62db30b39dc24a7132a&ref=pq9e3re1yj6xusby12keqorkvwfr5jhii
+https://bastyon.com/post?s=0469fb551acf3c48dbbef1204f8536e16c905060c130b62db30b39dc24a7132a&ref=pq9e3re1yj6xusby12keqorkvwfr5jhii6
 
 #дом #табуретка #куранты #Лагунов #наркор
